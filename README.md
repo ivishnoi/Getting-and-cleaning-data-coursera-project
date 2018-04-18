@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data-coursera-project
-Coursera-Getting and cleaning data course project
+"Coursera-Getting and cleaning data course project"
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 Download the dataset if it does not already exist in the working directory
